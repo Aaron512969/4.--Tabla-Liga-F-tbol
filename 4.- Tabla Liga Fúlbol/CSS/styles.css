@@ -1,0 +1,54 @@
+
+main {
+    width: 75%;
+    border-collapse: collapse;
+}
+
+hr {
+    color: red;
+}
+
+h1 {
+    text-align: center;
+}
+
+.tabla1 {
+    width: 100%;
+    text-align: center;
+}
+
+.tabla2 {
+    width: 100%;
+    text-align: center;
+}
+
+img {
+    width: 40px;
+}
+
+.tr1{
+    
+}
+
+header {
+
+}
+
+.trinvisible {
+    color: white;
+}
+
+.trgris {
+    background-color: rgb(196, 195, 195);
+
+}
+
+*{border-collapse: collapse;}
+
+th {
+    border-collapse: separate;
+    border-bottom: 3px solid red;
+
+}
+
+th {color: grey;}
